@@ -1,0 +1,21 @@
+body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-color: rgb(105, 105, 214);
+}
+
+#addRoom
+{
+	width: 80%;border-radius: 15px;
+    background-color: rgb(117, 87, 187);
+}
+
+#logout 
+{
+    background-color: rgb(117, 87, 187);;
+}

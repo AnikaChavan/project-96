@@ -1,0 +1,23 @@
+body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-color: rgb(105, 105, 214);
+}
+
+.login_div
+{
+	background-color: rgb(74, 49, 145);
+    float: none;
+    border-radius: 15px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+    background-color: rgb(117, 87, 187);
+}
